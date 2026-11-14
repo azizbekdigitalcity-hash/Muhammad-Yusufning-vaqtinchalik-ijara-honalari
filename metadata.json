@@ -1,0 +1,6 @@
+{
+  "name": "Makon — Xonalar ijarasi",
+  "description": "Darslar va kichik uchrashuvlar uchun xonalarni soatlik band qilish platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
